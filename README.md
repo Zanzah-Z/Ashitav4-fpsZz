@@ -1,14 +1,14 @@
 # Ashitav4-fpsZz
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4.
-fpsZz Overlay Addon
-Buy me a Coffee?
-https://ko-fi.com/zanzah_z
-====================
+fpsZz Overlay Addon<br>
+Buy me a Coffee?<br>
+https://ko-fi.com/zanzah_z<br>
+====================<br>
 
-Author: Zanzah
-Website: https://www.Zanzah.com
-Version: 1.9
-Description: Displays the current FPS in-game with customizable options.
+Author: Zanzah<br>
+Website: https://www.Zanzah.com<br>
+Version: 1.9<br>
+Description: Displays the current FPS in-game with customizable options.<br>
 
 Installation:
 -------------
@@ -59,8 +59,10 @@ Default Settings:
 - Scale: 100
 - Interval: 1 (Second)
 
-Notes:
+Latest Version Updates:
 ------
+- Added more customization options. (f) (i) (d) and (t)
+- Changed default settings from realtime (0) to update every 1 seconds.
 - All user settings are saved persistently and applied on next load.
 - Compatible with any valid font installed on the system.
 - Font fallback system ensures the addon remains functional.
