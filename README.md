@@ -1,6 +1,7 @@
 # Ashitav4-fpsZz
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4.
 fpsZz Overlay Addon<br>
+https://linktr.ee/zanzah<br>
 Buy me a Coffee?<br>
 https://ko-fi.com/zanzah_z<br>
 ====================<br>
