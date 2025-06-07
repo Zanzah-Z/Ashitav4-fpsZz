@@ -67,4 +67,3 @@ Latest Version Updates:
 - Compatible with any valid font installed on the system.
 - Font fallback system ensures the addon remains functional.
 
-Enjoy!
