@@ -10,8 +10,8 @@ __________                            .__
 addon.name      = 'fpszz';
 addon.author    = 'Zanzah';
 addon.version   = '1.9';
-addon.desc      = 'Displays the current FPS on screen with customization.';
-addon.link      = 'https://www.Zanzah.com';
+addon.desc      = 'Displays the current FPS on screen with customization. Commands/Config @: Github or Zanzah.com/fpszz (redirects to Github)';
+addon.link      = 'https://github.com/Zanzah-Z/Ashitav4-fpsZz';
 
 require('common');
 local fonts     = require('fonts');
@@ -169,4 +169,5 @@ ashita.events.register('d3d_present', 'present_cb', function()
         end
     end
 end);
+
 
