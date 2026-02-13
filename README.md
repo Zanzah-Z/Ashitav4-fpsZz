@@ -1,6 +1,6 @@
 # Ashitav4-fpsZz
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4.
-fpsZz Overlay Addon<br>
+Zzfps Overlay Addon<br>
 https://linktr.ee/zanzah<br>
 Buy me a Coffee?<br>
 https://ko-fi.com/zanzah_z<br>
@@ -8,47 +8,46 @@ https://ko-fi.com/zanzah_z<br>
 
 Author: Zanzah<br>
 Website: https://www.Zanzah.com<br>
-Version: 1.9<br>
+Version: 2.0<br>
 Description: Displays the current FPS in-game with customizable options.<br>
 
 Installation:
 -------------
-1. Place the `fpszz` folder into your Ashita4 `addons` directory.
-2. Load the addon using `/addon load fpszz`.
+1. Place the `Zzfps` folder into your Ashita4 `addons` directory.
+2. Load the addon using `/addon load zzfps`.
 
-Commands:
-
+Commands: <br>
 Shift+Click-and-drag to reposition.
 
-/fpszz s [scale]
+/zzfps s [scale]
 - Set the scaling percentage of the text (50–400).
-- Example: `/fpszz s 100` (default scale), `/fpszz s 200` (2x scale)
+- Example: `/zzfps s 100` (default scale), `/zzfps s 200` (2x scale)
 
-/fpszz c [hexcode]
+/zzfps c [hexcode]
 - Set the font color using a hex value (no `#`).
-- Example: `/fpszz c 00ff00` (bright green)
+- Example: `/zzfps c 00ff00` (bright green)
 
-/fpszz bg
+/zzfps bg
 - Toggles background visibility behind the FPS text.
 
-/fpszz o [opacity]
+/zzfps o [opacity]
 - Set text opacity between 0.0 and 1.0.
-- Example: `/fpszz o 1.0` (fully visible), `/fpszz o 0.5` (semi-transparent)
+- Example: `/zzfps o 1.0` (fully visible), `/zzfps o 0.5` (semi-transparent)
 
-/fpszz i [seconds]
+/zzfps i [seconds]
 - Set FPS update interval in seconds (0–60).
 - 0 = real-time updates, 60 = update every 60 seconds
-- Example: `/fpszz i 5` (average FPS every 5 seconds)
+- Example: `/zzfps i 5` (average FPS every 5 seconds)
 
-/fpszz f [font name]
+/zzfps f [font name]
 - Change the font to any installed system font.
 - If the font is invalid, the previous good config is restored.
-- Example: `/fpszz f Arial`, `/fpszz f Consolas`
+- Example: `/zzfps f Arial`, `/zzfps f Consolas`
 
-/fpszz d
+/zzfps d
 - Toggles display of decimal points in FPS (e.g., "60.1" vs "60")
 
-/fpszz t
+/zzfps t
 - Toggles the "FPS:" label text.
 - When off, only the number is displayed (e.g., "60")
 
@@ -65,6 +64,7 @@ Default Settings:
 
 Latest Version Updates:
 ------
+- Changed from fpszz to Zzfps to make suite more uniform. More addons coming soon!
 - Added more customization options. (f) (i) (d) and (t)
 - Changed default settings from realtime (0) to update every 1 seconds.
 - All user settings are saved persistently and applied on next load.
