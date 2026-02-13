@@ -17,6 +17,8 @@ Installation:
 2. Load the addon using `/addon load fpszz`.
 
 Commands:
+Shift+Click-and-drag to reposition.
+
 /fpszz s [scale]
 - Set the scaling percentage of the text (50–400).
 - Example: `/fpszz s 100` (default scale), `/fpszz s 200` (2x scale)
