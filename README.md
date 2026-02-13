@@ -17,6 +17,7 @@ Installation:
 2. Load the addon using `/addon load fpszz`.
 
 Commands:
+
 Shift+Click-and-drag to reposition.
 
 /fpszz s [scale]
