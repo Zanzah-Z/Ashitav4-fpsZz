@@ -18,6 +18,12 @@ Installation:
 Commands: <br>
 Shift+Click-and-drag to reposition.
 
+/zzfps help
+- Prints commands/help in-game.
+
+/zzfps reset
+- Reloads default settings.
+
 /zzfps s [scale]
 - Set the scaling percentage of the text (50–400).
 - Example: `/zzfps s 100` (default scale), `/zzfps s 200` (2x scale)
@@ -49,12 +55,6 @@ Shift+Click-and-drag to reposition.
 /zzfps t
 - Toggles the "FPS:" label text.
 - When off, only the number is displayed (e.g., "60")
-
-/zzfps reset
-- Reloads default settings.
-
-/zzfps help
-- Prints commands/help in-game.
 
 Default Settings:
 -----------------
