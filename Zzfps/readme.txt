@@ -13,38 +13,38 @@ Description: Displays the current FPS in-game with customizable options.
 Installation:
 Place the Zzfps folder into your Ashita4 addons directory.
 Load the addon using /addon load zzfps.
-Commands: <br>
+Commands:
 Shift+Click-and-drag to reposition. <br><br>
 
-/zzfps s [scale] <br>
+/zzfps s [scale]
 Set the scaling percentage of the text (50–400).
 Example: /zzfps s 100 (default scale), /zzfps s 200 (2x scale)<br><br>
 
-/zzfps c [hexcode] <br>
+/zzfps c [hexcode]
 Set the font color using a hex value (no #).
 Example: /zzfps c 00ff00 (bright green)<br><br>
 
-/zzfps bg <br>
+/zzfps bg
 Toggles background visibility behind the FPS text.<br><br>
 
-/zzfps o [opacity] <br>
+/zzfps o [opacity]
 Set text opacity between 0.0 and 1.0.
 Example: /zzfps o 1.0 (fully visible), /zzfps o 0.5 (semi-transparent)<br><br>
 
-/zzfps i [seconds] <br>
+/zzfps i [seconds]
 Set FPS update interval in seconds (0–60).
 0 = real-time updates, 60 = update every 60 seconds
 Example: /zzfps i 5 (average FPS every 5 seconds)<br><br>
 
-/zzfps f [font name] <br>
+/zzfps f [font name]
 Change the font to any installed system font.
 If the font is invalid, the previous good config is restored.
 Example: /zzfps f Arial, /zzfps f Consolas<br><br>
 
-/zzfps d <br>
+/zzfps d
 Toggles display of decimal points in FPS (e.g., "60.1" vs "60")<br><br>
 
-/zzfps t <br>
+/zzfps t
 Toggles the "FPS:" label text.
 When off, only the number is displayed (e.g., "60")
 <br><br>
@@ -65,4 +65,5 @@ All user settings are saved persistently and applied on next load.
 Compatible with any valid font installed on the system.
 
 Font fallback system ensures the addon remains functional.
+
 
