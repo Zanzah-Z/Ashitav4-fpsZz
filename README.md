@@ -1,13 +1,13 @@
 # Ashitav4-Zzfps
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4.
 Zzfps Overlay Addon<br>
-https://linktr.ee/zanzah<br>
-Buy me a Coffee?<br>
-https://ko-fi.com/zanzah_z<br>
+[Linktr.ee Socials](https://linktr.ee/zanzah)<br>
+Your support is appreciated!<br>
+[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=ZJBZDWWWREULU)<br>
 ====================<br>
 
 Author: Zanzah<br>
-Website: https://www.Zanzah.com<br>
+Website: [Zanzah.com](https://www.Zanzah.com)<br>
 Description: Displays the current FPS in-game with customizable options.<br>
 
 Installation:
