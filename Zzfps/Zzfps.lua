@@ -25,7 +25,7 @@ __________                            .__
 
 addon.name      = 'Zzfps';
 addon.author    = 'Zanzah';
-addon.version   = '2.5a';
+addon.version   = '2.6';
 addon.desc      = 'Displays the current FPS on screen with customization. /zzfps help for commands/config';
 addon.link      = 'https://github.com/Zanzah-Z/Ashitav4-Zzfps';
 
@@ -469,3 +469,4 @@ ashita.events.register('d3d_present', 'present_cb', function ()
         end
     end
 end);
+
