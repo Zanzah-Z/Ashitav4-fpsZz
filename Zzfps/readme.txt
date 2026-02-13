@@ -1,4 +1,4 @@
-Ashitav4-fpsZz
+Ashitav4-Zzfps
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4. Zzfps Overlay Addon
 https://linktr.ee/zanzah
 Buy me a Coffee?
@@ -7,12 +7,11 @@ https://ko-fi.com/zanzah_z
 
 Author: Zanzah
 Website: https://www.Zanzah.com
-Version: 2.0
 Description: Displays the current FPS in-game with customizable options.
 
 Installation:
 Place the Zzfps folder into your Ashita4 addons directory.
-Load the addon using /addon load zzfps.
+Load the addon via default.txt or manually ingame by using /addon load zzfps.
 Commands:
 Shift+Click-and-drag to reposition.
 
@@ -66,3 +65,4 @@ All user settings are saved persistently and applied on next load.
 Compatible with any valid font installed on the system.
 
 Font fallback system ensures the addon remains functional.
+
