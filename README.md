@@ -69,6 +69,9 @@ Default Settings:
 
 Latest Version Updates:
 ------
+(v2.5a)
+- Hotfix for crash on load.
+
 (v2.5)
 - New commands: /zzfps reset (reloads default settings), /zzfps help (prints out commands).
 - /zzfps bg now working again.
@@ -76,7 +79,7 @@ Latest Version Updates:
 - Numerous Clamping Bug Fixes (Should no longer be able to be dragged completely off screen).
 - Edited screen padding during drag reposition.
 - Saving system optimization to reduce resource usage.
-- 
+
 (v2.0)
 - Changed from fpszz to Zzfps to make suite more uniform. More addons coming soon!
 - Bug Fixes
