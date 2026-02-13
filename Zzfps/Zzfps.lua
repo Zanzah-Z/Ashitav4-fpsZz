@@ -57,7 +57,7 @@ local zzfps = T{
     previous_font = 'Arial',
 };
 
--- Apply settings + auto-save (settings lib handles per-character addon configs)
+-- Apply settings + auto-save
 settings.register('settings', 'settings_update', function(s)
     if (s ~= nil) then
         zzfps.settings = s;
@@ -98,7 +98,7 @@ ashita.events.register('load', 'load_cb', function()
 end);
 
 ashita.events.register('unload', 'unload_cb', function()
-    -- Save one last time on unload (position + any pending changes)
+    -- Save on unload
     settings.save();
 
     if (zzfps.font ~= nil) then
@@ -206,7 +206,7 @@ ashita.events.register('d3d_present', 'present_cb', function()
 
     local now = os_clock();
 
-    -- Persist position (if user drags/moves via Ashita font system/UI)
+    -- Persist position
     save_position_if_changed(now);
 
     -- FPS tracking
@@ -242,3 +242,4 @@ ashita.events.register('d3d_present', 'present_cb', function()
         end
     end
 end);
+
