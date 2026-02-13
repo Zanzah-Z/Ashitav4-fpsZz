@@ -2,8 +2,8 @@
 A lightweight customizable in-game average-FPS overlay for HorizonXI Private Server using AshitaV4.
 Zzfps Overlay Addon<br>
 https://linktr.ee/zanzah<br>
-Buy me a Coffee?<br>
-https://ko-fi.com/zanzah_z<br>
+Your support is appreciated!<br>
+https://www.zanzah.com/donate<br>
 ====================<br>
 
 Author: Zanzah<br>
@@ -91,4 +91,5 @@ Latest Version Updates:
 (v1.0)
 - Compatible with any valid font installed on the system.
 - Font fallback system ensures the addon remains functional.
+
 
