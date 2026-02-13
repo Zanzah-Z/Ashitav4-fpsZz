@@ -8,7 +8,6 @@ https://ko-fi.com/zanzah_z<br>
 
 Author: Zanzah<br>
 Website: https://www.Zanzah.com<br>
-Version: 2.0<br>
 Description: Displays the current FPS in-game with customizable options.<br>
 
 Installation:
