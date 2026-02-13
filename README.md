@@ -76,18 +76,22 @@ Latest Version Updates:
 - Numerous Clamping Bug Fixes (Should no longer be able to be dragged completely off screen).
 - Edited screen padding during drag reposition.
 - Saving system optimization to reduce resource usage.
+- 
 (v2.0)
 - Changed from fpszz to Zzfps to make suite more uniform. More addons coming soon!
-- New commands: 
 - Bug Fixes
+
 (v1.9)
 - Bug Fixes
 - Limits for settings implemented.
-- Changed default settings from realtime (0) to update every 1 seconds. 
+- Changed default settings from realtime (0) to update every 1 seconds.
+
 (v1.5)
 - Added more customization options. (f) (i) (d) (bg) and (t)
+
 (v1.1)
 - All user settings are saved persistently and applied on next load.
+
 (v1.0)
 - Compatible with any valid font installed on the system.
 - Font fallback system ensures the addon remains functional.
