@@ -16,38 +16,38 @@ Load the addon using /addon load zzfps.
 Commands:
 Shift+Click-and-drag to reposition.
 
-/zzfps s [scale]
+/zzfps s [scale]<br>
+Set the scaling percentage of the text (50â€“400).
+Example: /zzfps s 100 (default scale), /zzfps s 200 (2x scale)<br><br>
 
-Set the scaling percentage of the text (50–400).
-Example: /zzfps s 100 (default scale), /zzfps s 200 (2x scale)
-/zzfps c [hexcode]
-
+/zzfps c [hexcode]<br>
 Set the font color using a hex value (no #).
-Example: /zzfps c 00ff00 (bright green)
-/zzfps bg
+Example: /zzfps c 00ff00 (bright green)<br><br>
 
-Toggles background visibility behind the FPS text.
-/zzfps o [opacity]
+/zzfps bg<br>
+Toggles background visibility behind the FPS text.<br><br>
 
+/zzfps o [opacity]<br>
 Set text opacity between 0.0 and 1.0.
-Example: /zzfps o 1.0 (fully visible), /zzfps o 0.5 (semi-transparent)
-/zzfps i [seconds]
+Example: /zzfps o 1.0 (fully visible), /zzfps o 0.5 (semi-transparent)<br><br>
 
-Set FPS update interval in seconds (0–60).
+/zzfps i [seconds]<br>
+Set FPS update interval in seconds (0â€“60).
 0 = real-time updates, 60 = update every 60 seconds
-Example: /zzfps i 5 (average FPS every 5 seconds)
-/zzfps f [font name]
+Example: /zzfps i 5 (average FPS every 5 seconds)<br><br>
 
+/zzfps f [font name]<br>
 Change the font to any installed system font.
 If the font is invalid, the previous good config is restored.
-Example: /zzfps f Arial, /zzfps f Consolas
-/zzfps d
+Example: /zzfps f Arial, /zzfps f Consolas<br><br>
 
-Toggles display of decimal points in FPS (e.g., "60.1" vs "60")
-/zzfps t
+/zzfps d<br>
+Toggles display of decimal points in FPS (e.g., "60.1" vs "60")<br><br>
 
+/zzfps t<br>
 Toggles the "FPS:" label text.
 When off, only the number is displayed (e.g., "60")
+<br><br>
 Default Settings:
 Color: White (ffffff)
 Font: Arial
@@ -63,4 +63,5 @@ Added more customization options. (f) (i) (d) and (t)
 Changed default settings from realtime (0) to update every 1 seconds.
 All user settings are saved persistently and applied on next load.
 Compatible with any valid font installed on the system.
+
 Font fallback system ensures the addon remains functional.
