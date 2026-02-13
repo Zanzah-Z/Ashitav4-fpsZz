@@ -69,6 +69,10 @@ Default Settings:
 
 Latest Version Updates:
 ------
+(v2.6)
+- FINALLY fixed padding/clamping error.
+- Overlay should no longer be able to exceed game window bounds.
+
 (v2.5a)
 - Hotfix for crash on load.
 
